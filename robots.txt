@@ -1,0 +1,1 @@
+User-agent: *\nAllow: /\n\nSitemap: https://YOUR-DOMAIN.vercel.app/sitemap.xml\n
